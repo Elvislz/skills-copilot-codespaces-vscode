@@ -1,0 +1,15 @@
+{
+  "name": "skills-copilot-codespaces-vscode",
+  "version": "1.0.0",
+  "description": "GitHub Copilot learning exercises",
+  "main": "comments.js",
+  "scripts": {
+    "start": "node comments.js"
+  },
+  "keywords": ["github", "copilot", "javascript", "learning"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
